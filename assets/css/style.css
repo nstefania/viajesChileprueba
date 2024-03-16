@@ -8,12 +8,13 @@ body, body*{
 }
 
 .navbar-brand {
-    background-color: transparent;
-}
-nav img {
-    width: 15px;
+    
 
 }
 header{
     margin-top: 0;
+}
+
+.carousel {
+    padding-top: -200px;
 }
