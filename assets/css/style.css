@@ -1,0 +1,19 @@
+body, body*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.navbar-brand {
+    background-color: transparent;
+}
+nav img {
+    width: 15px;
+
+}
+header{
+    margin-top: 0;
+}
