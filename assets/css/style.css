@@ -5,16 +5,7 @@ body, body*{
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+    background-color: black;
 }
 
-.navbar-brand {
-    
 
-}
-header{
-    margin-top: 0;
-}
-
-.carousel {
-    padding-top: -200px;
-}
