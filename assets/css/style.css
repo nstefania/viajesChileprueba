@@ -1,11 +1,18 @@
-body, body*{
+*{
     margin: 0;
     border: 0;
     padding: 0;
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
-    background-color: black;
 }
 
+body{
+    background-color: #000000;
+}
 
+h2 {
+    color: white;
+    text-align: center;
+    padding-top: 3rem;
+}
