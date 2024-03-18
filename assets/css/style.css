@@ -1,26 +1,43 @@
-*{
-    margin: 0;
-    border: 0;
-    padding: 0;
-    font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-    color: #ffffff;
-}
 
-body{
+*   {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    color: white;
+    }
+
+body {
     background-color: #000000;
 }
 
 h2 {
-    color: white;
     text-align: center;
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
 
+
 .icons, .card, footer{
-    background-color: rgb(92, 224, 239);
+    background-color: rgb(57, 191, 184);
     margin-top: 2rem;
 
+}
+
+.icons {
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.card img {
+    height: 200px;
+    text-align: center;
+}
+
+.icons-footer {
+    text-align: end ;
+    font-size: 25px;
+    
 }
