@@ -19,7 +19,7 @@ h2 {
     padding-bottom: 3rem;
 }
 
-.icons{
+.icons, .card, footer{
     background-color: rgb(92, 224, 239);
     margin-top: 2rem;
 
