@@ -5,6 +5,7 @@
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+    color: #ffffff;
 }
 
 body{
@@ -15,4 +16,11 @@ h2 {
     color: white;
     text-align: center;
     padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.icons{
+    background-color: rgb(92, 224, 239);
+    margin-top: 2rem;
+
 }
