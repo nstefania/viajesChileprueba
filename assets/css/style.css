@@ -57,6 +57,6 @@ footer{
     font-size: 25px;
 }
 
-.icons-footer {
+.icons-footer, button-text{
     background-color: rgb(36, 175, 203);;
 }
