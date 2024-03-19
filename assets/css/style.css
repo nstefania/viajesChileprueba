@@ -45,3 +45,18 @@ h2 {
     font-size: 25px;
     
 }
+
+footer{
+    padding-top: 15px;
+    height: 70px;
+    
+}
+
+.footer-text {
+    vertical-align: middle;
+    font-size: 25px;
+}
+
+.icons-footer {
+    background-color: rgb(36, 175, 203);;
+}
